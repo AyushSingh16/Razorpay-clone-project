@@ -16,6 +16,8 @@ This website includes the following pages and features:
 
 5) Footer section with links to social media profiles and legal pages. 
 
+
+
 This website has a Responsive design that adapts to different screen sizes and devices.
 
 This project is static and currently in development, you would get to see lots of updates in the near future. Stay tuned! 
