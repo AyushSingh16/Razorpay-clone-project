@@ -6,21 +6,27 @@ Hello there! In this project, I have developed a clone website for Razorpay, a p
 
 This website includes the following pages and features: 
 
-1) Home page with an overview of the services offered by Razorpay and a call-to-action button for Log In and  Sign Up.
+1) Home page with an overview of the services offered by Razorpay with Log In and  Sign Up.
 
 2) Pricing page with a comparison table of different pricing plans 
 
 3) A Sign-Up form Contact page with a form to submit your inquiries or feedbacks. 
 
-4) About page with information related to the company and its mission.
+4) Types of accounts section along with a demo section for the complete walkthrough of Razorpay's online website.
 
-5) Footer section with links to social media profiles and legal pages. 
+5) Features section describing about the features which Razorpay offers.
+
+6) About page with information related to the company and its mission.
+
+7) Testimonials section.
+
+8) Footer section with links to social media profiles and legal pages. 
 
 
 
 This website has a Responsive design that adapts to different screen sizes and devices.
 
-This project is static and currently in development, you would get to see lots of updates in the near future. Stay tuned! 
+This project is static and currently in development, so you would get to see lots of updates in the near future. Stay tuned! 
 
 # Getting Started
 
