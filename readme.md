@@ -18,7 +18,7 @@ This website includes the following pages and features:
 
 6) About page with information related to the company and its mission.
 
-7) Testimonials section.
+7) Testimonials & Call-to-action section.
 
 8) Footer section with links to social media profiles and legal pages. 
 
