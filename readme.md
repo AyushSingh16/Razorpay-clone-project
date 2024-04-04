@@ -17,8 +17,6 @@ This website includes the following pages and features:
 
 This website has a Responsive design that adapts to different screen sizes and devices.
 
-This project is static and currently in development, so you would get to see lots of updates in the near future. Stay tuned! 
-
 # Getting Started
 
 To run the website locally, TailWind CSS must be setted and then you can follow these steps :
