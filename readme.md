@@ -1,6 +1,6 @@
 # Razorpay-Clone
 
-Hello there! In this project, I have developed a clone website for Razorpay, a popular online payments platform in India. The website is built using HTML and Tailwind CSS. Tailwind CSS is a utility-first CSS framework that makes it easy to style and layout web pages.
+Hello there! In this project, I have developed a clone website for Razorpay, a popular online payments platform in India. The website is built using HTML and Tailwind CSS along with responsiveness. Tailwind CSS is a utility-first CSS framework that makes it easy to style and layout web pages.
 
 # Features
 
